@@ -1,0 +1,2 @@
+# myDataStructure
+following labuladong / TS
